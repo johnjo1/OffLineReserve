@@ -1,0 +1,75 @@
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### IntelliJ IDEA ###
+.idea/modules.xml
+.idea/jarRepositories.xml
+.idea/compiler.xml
+.idea/libraries/
+*.iws
+*.iml
+*.ipr
+
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
+
+### Properties ###
+.properties
+
+# HTML Files
+*.html
+
+# Stylesheet Files
+*.css
+*.scss
+*.sass
+*.less
+
+# JavaScript Files
+*.js
+*.ts
+
+# Image Files
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.svg
+*.ico
+
+# Font Files
+*.eot
+*.ttf
+*.woff
+*.woff2
+
+# Node Modules and Vendor Libraries
+node_modules/
+vendor/
+
+# MacOS files
+.DS_Store
